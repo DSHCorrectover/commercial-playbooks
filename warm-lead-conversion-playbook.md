@@ -49,3 +49,20 @@ S6 关闭判定：窗口到期无书面动作 → 3-strike 关闭，不续命
 
 ---
 *Correctover — AI Agent action-layer independent audit. Evidence-first, offline re-verifiable.*
+
+## Why It Worked — Validated Success Factors (2026-11)
+
+Case evidence: two parallel USD 2,500 engagements (a Bounded Review and an integration-verification pilot) advanced through this same playbook. Post-mortem of both:
+
+**Common root cause: deliver verifiable goods first. Trust is earned by artifacts, not negotiated.**
+
+1. **Free artifact first, actually executed.** Crosswalk ran against six real cases, pinned to a specific commit, plus a standalone profile issue and real test vectors — by the time money was discussed, the buyer had already seen every deliverable shape.
+2. **Found a real problem in their ecosystem, fixed it on the spot.** (A verifier signature-check gap in their stack, self-scanned, patched same day.) Proof that we see what others don't.
+3. **Hit a structural need, not an adjective.** Integration-verification vendors eventually face the question "who verified *your* verification?" — vendor self-attestation has no answer. An independent third party with offline-verifiable signed receipts is the only resolution. Sell the structural gap, never "we're independent" as decoration.
+4. **Zero-friction deal shape.** Pilot price below procurement-committee threshold; try-then-buy window keeps the risk on our side; fully async, zero meetings.
+
+**Compounding channel note:** one buyer held both a paper co-author seat and the payment decision — every thread the paper advanced added trust to the commercial line automatically.
+
+**Copyable formula:** free executed artifact (pinned, re-verifiable) → catch & fix a real problem on the spot → hit the structural need → small anchor + try-then-buy + async → let deliverables speak; never chase.
+
+**Downside guards:** 3-strike close discipline; price anchoring by track (pilot USD 2,500 / new-client default USD 5,000); explicit walk-away criteria.
